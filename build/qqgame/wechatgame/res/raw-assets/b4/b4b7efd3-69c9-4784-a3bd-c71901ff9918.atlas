@@ -1,0 +1,41 @@
+
+pen.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pen_001
+  rotate: false
+  xy: 1, 1
+  size: 61, 127
+  orig: 61, 127
+  offset: 0, 0
+  index: -1
+pen_002
+  rotate: false
+  xy: 1, 129
+  size: 56, 143
+  orig: 56, 143
+  offset: 0, 0
+  index: -1
+pen_003
+  rotate: false
+  xy: 1, 273
+  size: 56, 146
+  orig: 56, 146
+  offset: 0, 0
+  index: -1
+pen_004
+  rotate: false
+  xy: 58, 150
+  size: 58, 127
+  orig: 58, 127
+  offset: 0, 0
+  index: -1
+pen_005
+  rotate: false
+  xy: 58, 278
+  size: 56, 141
+  orig: 56, 141
+  offset: 0, 0
+  index: -1

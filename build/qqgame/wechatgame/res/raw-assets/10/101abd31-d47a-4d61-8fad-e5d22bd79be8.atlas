@@ -1,0 +1,20 @@
+
+yezi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ye1
+  rotate: false
+  xy: 136, 111
+  size: 225, 114
+  orig: 225, 124
+  offset: 0, 10
+  index: -1
+ye2
+  rotate: false
+  xy: 1, 1
+  size: 134, 224
+  orig: 134, 224
+  offset: 0, 0
+  index: -1

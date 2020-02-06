@@ -1,0 +1,90 @@
+
+start_000.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+start_000
+  rotate: false
+  xy: 443, 343
+  size: 438, 140
+  orig: 438, 140
+  offset: 0, 0
+  index: -1
+start_001
+  rotate: false
+  xy: 1, 342
+  size: 441, 141
+  orig: 441, 141
+  offset: 0, 0
+  index: -1
+start_002
+  rotate: false
+  xy: 443, 208
+  size: 438, 134
+  orig: 438, 134
+  offset: 0, 0
+  index: -1
+start_003
+  rotate: false
+  xy: 882, 207
+  size: 439, 134
+  orig: 439, 134
+  offset: 0, 0
+  index: -1
+start_004
+  rotate: false
+  xy: 1322, 203
+  size: 433, 141
+  orig: 433, 141
+  offset: 0, 0
+  index: -1
+start_005
+  rotate: false
+  xy: 882, 342
+  size: 435, 141
+  orig: 435, 141
+  offset: 0, 0
+  index: -1
+start_006
+  rotate: false
+  xy: 1318, 345
+  size: 437, 138
+  orig: 437, 138
+  offset: 0, 0
+  index: -1
+start_007
+  rotate: false
+  xy: 441, 68
+  size: 435, 139
+  orig: 435, 139
+  offset: 0, 0
+  index: -1
+start_008
+  rotate: false
+  xy: 877, 66
+  size: 435, 140
+  orig: 435, 140
+  offset: 0, 0
+  index: -1
+start_009
+  rotate: false
+  xy: 1, 200
+  size: 439, 141
+  orig: 439, 141
+  offset: 0, 0
+  index: -1
+start_010
+  rotate: false
+  xy: 1, 59
+  size: 437, 140
+  orig: 437, 140
+  offset: 0, 0
+  index: -1
+开始游戏
+  rotate: false
+  xy: 1, 1
+  size: 234, 57
+  orig: 234, 57
+  offset: 0, 0
+  index: -1

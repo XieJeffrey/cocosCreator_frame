@@ -1,0 +1,25 @@
+{
+  "ver": "1.2.0",
+  "uuid": "7ab58663-bd0b-407c-b6de-adccf3076b55",
+  "maxWidth": 1024,
+  "maxHeight": 1024,
+  "padding": 2,
+  "allowRotation": true,
+  "forceSquared": false,
+  "powerOfTwo": false,
+  "algorithm": "MaxRects",
+  "format": "png",
+  "quality": 80,
+  "contourBleed": true,
+  "paddingBleed": true,
+  "filterUnused": false,
+  "packable": false,
+  "premultiplyAlpha": false,
+  "filterMode": "bilinear",
+  "platformSettings": {
+    "wechatgame": {
+      "formats": []
+    }
+  },
+  "subMetas": {}
+}

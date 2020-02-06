@@ -1,0 +1,27 @@
+
+BGsc.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 38
+  size: 720, 1560
+  orig: 720, 1560
+  offset: 0, 0
+  index: -1
+piao1
+  rotate: false
+  xy: 722, 1573
+  size: 24, 25
+  orig: 24, 27
+  offset: 0, 1
+  index: -1
+piao2
+  rotate: false
+  xy: 1, 1
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1

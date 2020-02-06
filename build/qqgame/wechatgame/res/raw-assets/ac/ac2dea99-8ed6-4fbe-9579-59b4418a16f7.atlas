@@ -1,0 +1,62 @@
+
+get.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: true
+  xy: 616, 733
+  size: 186, 267
+  orig: 187, 268
+  offset: 0, 1
+  index: -1
+dian
+  rotate: false
+  xy: 998, 985
+  size: 23, 24
+  orig: 26, 28
+  offset: 1, 2
+  index: -1
+dun1
+  rotate: false
+  xy: 1, 598
+  size: 411, 411
+  orig: 536, 536
+  offset: 62, 63
+  index: -1
+guang
+  rotate: false
+  xy: 1, 287
+  size: 308, 310
+  orig: 320, 322
+  offset: 6, 4
+  index: -1
+sanshe
+  rotate: false
+  xy: 310, 273
+  size: 113, 324
+  orig: 113, 324
+  offset: 0, 0
+  index: -1
+youp
+  rotate: false
+  xy: 413, 723
+  size: 202, 286
+  orig: 205, 288
+  offset: 1, 1
+  index: -1
+获得新邮票
+  rotate: false
+  xy: 616, 920
+  size: 381, 89
+  orig: 383, 90
+  offset: 1, 1
+  index: -1
+问号
+  rotate: false
+  xy: 1, 1
+  size: 202, 285
+  orig: 205, 288
+  offset: 1, 2
+  index: -1

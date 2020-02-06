@@ -1,0 +1,188 @@
+
+hecheng01_000.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hecheng01_001
+  rotate: false
+  xy: 1, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_002
+  rotate: false
+  xy: 1, 126
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_004
+  rotate: false
+  xy: 52, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_006
+  rotate: false
+  xy: 1, 62
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_008
+  rotate: false
+  xy: 52, 126
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_010
+  rotate: false
+  xy: 103, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_012
+  rotate: false
+  xy: 52, 62
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_014
+  rotate: false
+  xy: 103, 126
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_016
+  rotate: false
+  xy: 154, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_018
+  rotate: false
+  xy: 103, 62
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_020
+  rotate: false
+  xy: 154, 126
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_022
+  rotate: false
+  xy: 205, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_024
+  rotate: false
+  xy: 1, 1
+  size: 50, 60
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_026
+  rotate: false
+  xy: 154, 62
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_028
+  rotate: false
+  xy: 205, 126
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_030
+  rotate: false
+  xy: 256, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_032
+  rotate: false
+  xy: 205, 62
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_034
+  rotate: false
+  xy: 256, 126
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_036
+  rotate: false
+  xy: 307, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_038
+  rotate: false
+  xy: 256, 62
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_040
+  rotate: false
+  xy: 307, 126
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_042
+  rotate: false
+  xy: 358, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_044
+  rotate: false
+  xy: 307, 62
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_046
+  rotate: false
+  xy: 358, 126
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_048
+  rotate: false
+  xy: 409, 190
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hecheng01_050
+  rotate: false
+  xy: 358, 62
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1

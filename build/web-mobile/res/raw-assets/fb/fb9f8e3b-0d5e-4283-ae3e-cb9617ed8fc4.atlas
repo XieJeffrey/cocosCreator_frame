@@ -1,0 +1,55 @@
+
+321go.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 696, 166
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 241, 5
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 545, 100
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+Go!
+  rotate: false
+  xy: 545, 156
+  size: 150, 82
+  orig: 150, 82
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 402, 96
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 241, 78
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 1, 1
+  size: 239, 237
+  orig: 243, 242
+  offset: 1, 4
+  index: -1
